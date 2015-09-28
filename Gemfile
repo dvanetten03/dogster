@@ -39,5 +39,8 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# Use Devise to encrypt and store passwords in database to validate authenticity of user
+gem 'devise'
+
 
 
